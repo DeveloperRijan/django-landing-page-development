@@ -22,6 +22,9 @@ Thanks
 
 | Templates DIRS Handling and many more ...
 
+#Landing Page UI
 ![image](https://user-images.githubusercontent.com/38884716/124483448-2cd2a000-ddcc-11eb-8bac-137248f63326.png)
+
+#Django Backend UI
 ![image](https://user-images.githubusercontent.com/38884716/124483393-1cbac080-ddcc-11eb-96ea-bdbb9cffc8f4.png)
 
