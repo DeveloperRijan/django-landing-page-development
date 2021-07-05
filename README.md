@@ -14,6 +14,10 @@ Thanks
 
 | Rendering data in HTML Templates
 
+| Dynamic data passing to template
+
+| Looping objects and printing in template
+
 | Static Files Handling
 
 | Templates DIRS Handling and many more ...
