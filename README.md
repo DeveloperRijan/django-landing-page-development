@@ -1,5 +1,5 @@
 # django-landing-page-development
-Python/Django single page or landing page application development - practice for beginners staffs welcome
+Python/Django single page or landing page application development - newcomers are welcome to practice
 
 If you are beginners, so you can practice this project to enhance your skill in django, it's open source to practice - The full developed landing page project
 Thanks
